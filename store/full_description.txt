@@ -1,0 +1,14 @@
+Cuenta los días para lo que más esperas. Cuenta Regresiva te muestra cuánto falta para tus cumpleaños, viajes, exámenes, conciertos o cualquier fecha especial, con tarjetas de colores y un contador en vivo.
+
+CUENTA EN VIVO
+• Días, horas, minutos y segundos para tu próximo evento.
+• Barra de progreso desde que creaste el evento hasta la fecha.
+
+TUS EVENTOS
+• Crea todos los que quieras con nombre, fecha, color e ícono.
+• Se ordenan solos por fecha; los pasados aparecen aparte.
+• Toca para editar y desliza para borrar.
+
+PRIVACIDAD
+• Sin registro y sin cuenta.
+• Tus eventos se guardan solo en tu teléfono.
