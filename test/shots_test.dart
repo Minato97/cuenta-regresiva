@@ -71,6 +71,7 @@ void main() {
           colorSchemeSeed: const Color(0xFFEC4899),
           useMaterial3: true,
           fontFamily: 'Roboto',
+            floatingActionButtonTheme: const FloatingActionButtonThemeData(elevation: 0, focusElevation: 0, hoverElevation: 0, highlightElevation: 0),
         ),
         home: home,
       ),
